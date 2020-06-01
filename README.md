@@ -24,5 +24,5 @@
 ## :space_invader: Technologies
 
 - [Back-end](/backend)
-- Front-end
-- Mobile
+- [Front-end](/frontend)
+- [Mobile](/mobile)
