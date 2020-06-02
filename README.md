@@ -1,11 +1,12 @@
 <h1 align="center">
+  <img src="./frontend/src/assets/img/nlw.svg">
   <br>
   <br>
   Ecoleta
 </h1>
 
 <h3 align="center">
-<strong></strong>
+<strong>Next Level Week 01</strong>
 </h3>
 
 <p align="center">
