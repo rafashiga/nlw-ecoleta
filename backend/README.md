@@ -1,6 +1,5 @@
 <h1 align="center">
   <br>
-  <br>
   Ecoleta
 </h1>
 
@@ -18,3 +17,6 @@
 
 - express
 - typescript
+- knex.js
+- sqlite
+- cors
