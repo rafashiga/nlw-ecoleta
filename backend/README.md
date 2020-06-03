@@ -1,6 +1,5 @@
 <h1 align="center">
-  <br>
-  Ecoleta
+  <img src="../frontend/src/assets/img/logo.svg" alt="ecoleta logo">
 </h1>
 
 <h3 align="center">

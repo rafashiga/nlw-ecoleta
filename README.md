@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="./frontend/src/assets/img/nlw.svg">
+  <img src="./frontend/src/assets/img/nlw.svg" alt="next level week">
   <br>
   <br>
-  Ecoleta
+  <img src="./frontend/src/assets/img/logo.svg" alt="ecoleta logo">
+  
 </h1>
 
 <h3 align="center">
