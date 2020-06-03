@@ -17,3 +17,7 @@
 - ReactJS
 - Typescript
 - Axios
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Router](https://reacttraining.com/react-router/)
+- [React leaflet](https://react-leaflet.js.org/)
+- [Leaflet](https://leafletjs.com/)
