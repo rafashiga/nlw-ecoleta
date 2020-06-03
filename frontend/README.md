@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <br>
-  Ecoleta
+  <img src="src/assets/img/logo.svg" alt="ecoleta logo">
 </h1>
 
 <h3 align="center">
@@ -17,4 +15,5 @@
 ## :space_invader: Technologies
 
 - ReactJS
-- typescript
+- Typescript
+- Axios
