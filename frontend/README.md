@@ -22,3 +22,4 @@
 - [React Router](https://reacttraining.com/react-router/)
 - [React leaflet](https://react-leaflet.js.org/)
 - [Leaflet](https://leafletjs.com/)
+- React dropzone
