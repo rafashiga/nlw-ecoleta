@@ -10,7 +10,7 @@
   <a href="#space_invader-technologies">Technologies</a>
   <br>
   <br>
-  <img src="src/assets/img/website.png" alt="website ecoleta">
+  <img src="src/assets/HOME.png" alt="website ecoleta">
 </p>
 
 ## :space_invader: Technologies
